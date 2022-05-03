@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "https://kumarsskanchan.github.io/csb-f86569/static/css/main.4fbae54c.chunk.css",
-    "main.js": "https://kumarsskanchan.github.io/csb-f86569/static/js/main.804ad2c7.chunk.js",
-    "main.js.map": "https://kumarsskanchan.github.io/csb-f86569/static/js/main.804ad2c7.chunk.js.map",
+    "main.css": "https://kumarsskanchan.github.io/csb-f86569/static/css/main.9f8ea2fc.chunk.css",
+    "main.js": "https://kumarsskanchan.github.io/csb-f86569/static/js/main.6286d0c7.chunk.js",
+    "main.js.map": "https://kumarsskanchan.github.io/csb-f86569/static/js/main.6286d0c7.chunk.js.map",
     "runtime-main.js": "https://kumarsskanchan.github.io/csb-f86569/static/js/runtime-main.3a5e788f.js",
     "runtime-main.js.map": "https://kumarsskanchan.github.io/csb-f86569/static/js/runtime-main.3a5e788f.js.map",
-    "static/js/2.11cddbcc.chunk.js": "https://kumarsskanchan.github.io/csb-f86569/static/js/2.11cddbcc.chunk.js",
-    "static/js/2.11cddbcc.chunk.js.map": "https://kumarsskanchan.github.io/csb-f86569/static/js/2.11cddbcc.chunk.js.map",
+    "static/js/2.928ed550.chunk.js": "https://kumarsskanchan.github.io/csb-f86569/static/js/2.928ed550.chunk.js",
+    "static/js/2.928ed550.chunk.js.map": "https://kumarsskanchan.github.io/csb-f86569/static/js/2.928ed550.chunk.js.map",
     "index.html": "https://kumarsskanchan.github.io/csb-f86569/index.html",
-    "static/css/main.4fbae54c.chunk.css.map": "https://kumarsskanchan.github.io/csb-f86569/static/css/main.4fbae54c.chunk.css.map",
-    "static/js/2.11cddbcc.chunk.js.LICENSE.txt": "https://kumarsskanchan.github.io/csb-f86569/static/js/2.11cddbcc.chunk.js.LICENSE.txt",
+    "static/css/main.9f8ea2fc.chunk.css.map": "https://kumarsskanchan.github.io/csb-f86569/static/css/main.9f8ea2fc.chunk.css.map",
+    "static/js/2.928ed550.chunk.js.LICENSE.txt": "https://kumarsskanchan.github.io/csb-f86569/static/js/2.928ed550.chunk.js.LICENSE.txt",
     "static/media/resume.b0723e76.svg": "https://kumarsskanchan.github.io/csb-f86569/static/media/resume.b0723e76.svg",
     "static/media/scrollTop.ebd3e0ad.svg": "https://kumarsskanchan.github.io/csb-f86569/static/media/scrollTop.ebd3e0ad.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.3a5e788f.js",
-    "static/js/2.11cddbcc.chunk.js",
-    "static/css/main.4fbae54c.chunk.css",
-    "static/js/main.804ad2c7.chunk.js"
+    "static/js/2.928ed550.chunk.js",
+    "static/css/main.9f8ea2fc.chunk.css",
+    "static/js/main.6286d0c7.chunk.js"
   ]
 }
